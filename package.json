@@ -6,7 +6,8 @@
   "author": "Niels Wijers <nielswijers@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "echo build",
+    "build": "tsc",
+    "start": "tsc --watch",
     "test": "jest"
   },
   "devDependencies": {

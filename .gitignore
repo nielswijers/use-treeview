@@ -3,6 +3,7 @@ dist/
 lib/
 build/
 .idea/
+typings/
 
 *.log
 

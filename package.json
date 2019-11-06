@@ -1,0 +1,8 @@
+{
+  "name": "use-treeview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nielswijers/use-treeview.git",
+  "author": "Niels Wijers <nielswijers@gmail.com>",
+  "license": "MIT"
+}

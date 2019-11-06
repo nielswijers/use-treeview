@@ -1,3 +1,3 @@
-const useTreeView = () => {};
+const useTreeView = () => ({ test: 1 });
 
 export default useTreeView;
